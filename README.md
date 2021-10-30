@@ -131,6 +131,8 @@ You get 5 points extra for submitting a link to a public repository ([GitHub](ht
 Write a program that allocates teams to projects, disappointing as few people as possible in the process
 Sample input is provided below, and [here](code-olympics-selections.txt). 
 
+**Update** Every team must be assigned to exactly one project, and all projects must be assigned (roughly) the same number of teams. 
+
 |Team  |First Pick| Second Pick| Third pick |
 |------|----------|------------|------------|
 |Team 1|apples    | oranges    | pears      |
