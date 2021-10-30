@@ -4,18 +4,18 @@
 
 Here's a quick summary of our challenges and the number of points up for grabs for each, excluding any **bonuses**. Check the full challenge descriptions below for more information, additional resources, and details about bonus points, etc.
 
-|#|Title                                      |Difficulty|
-|-|-------------------------------------------|----------|
-|0|Join  Us                                   |Very Easy (10 points)|
-|1|Make Us Laugh                              |Easy (25-50 points)|
-|2|I Reject Your Reality And Substitute My Own|Easy (25-50 points)|
-|3|Not Its Intended Purpose                   |Easy (25-50 points)|
+|#|Title                                      |Difficulty            |
+|-|-------------------------------------------|----------------------|
+|0|Join  Us                                   |Very Easy (10 points) |
+|1|Make Us Laugh                              |Easy (25-50 points)   |
+|2|I Reject Your Reality And Substitute My Own|Easy (25-50 points)   |
+|3|Not Its Intended Purpose                   |Easy (25-50 points)   |
 |4|DEATHLOOP                                  |Medium (75-100 points)|
 |5|Do You DND?                                |Medium (75-100 points)|
 |6|Beat Hedy At RPS                           |Medium (75-100 points)|
-|7|Fun With APIs                              |Hard (125-150)|
-|8|Disappointment Minimiser                   |Hard (125-150)|
-|9|Smol Team Bonus                            |Bonus Only|
+|7|Fun With APIs                              |Hard (125-150 points) |
+|8|Disappointment Minimiser                   |Hard (125-150 points) |
+|9|Smol Team Bonus                            |Bonus Only            |
 
 ### Challenge Details
 
