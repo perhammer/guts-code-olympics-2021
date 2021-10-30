@@ -20,9 +20,9 @@ Here's a quick summary of our challenges and the number of points up for grabs f
 
 #### 0. Join  Us (Very Easy (10 points))
 
-Visit (jpmorgan.com/techcareers)[http://jpmorgan.com/techcareers "J.P. Morgan recruiting website"] and apply for an internship or graduate position.
+Visit [jpmorgan.com/techcareers](http://jpmorgan.com/techcareers "J.P. Morgan recruiting website") and apply for an internship or graduate position.
 
-__What To Submit__
+<u>What To Submit</u>
 Submit a (redacted if needed) screenshot of the application confirmation screen (or email). Your team gets **10 points** for every completed application. (If you already applied before CO21, you can still submit!)
 
 #### 1. Make Us Laugh (Easy (25-50 points))
