@@ -135,23 +135,25 @@ Sample input is provided below, and [here](code-olympics-selections.txt).
 
 |Team  |First Pick| Second Pick| Third pick |
 |------|----------|------------|------------|
-|Team 1|apples    | oranges    | pears      |
-|Team 2|apples    | pears      | oranges    |
-|Team 3|pears     | oranges    | grapes     |
-|Team 4|oranges   | apples     | grapes     |
-|Team 5|grapes    | apples     | pears      |
-|Team 6|pears     | grapes     | oranges    |
-|Team 7|oranges   | grapes     | apples     |
+|Team 1| apples   | oranges    | pears      |
+|Team 2| apples   | pears      | oranges    |
+|Team 3| apples   | oranges    | grapes     |
+|Team 4| oranges  | apples     | grapes     |
+|Team 5| oranges  | apples     | pears      |
+|Team 6| apples   | grapes     | oranges    |
+|Team 7| oranges  | grapes     | apples     |
+|Team 8| oranges  | apples     | grapes     |
 
 ```
 Team, First Pick, Second Pick, Third pick
 Team 1, apples, oranges, pears
 Team 2, apples, pears, oranges
-Team 3, pears, oranges, grapes
+Team 3, apples, oranges, grapes
 Team 4, oranges, apples, grapes
-Team 5, grapes, apples, pears
-Team 6, pears, grapes, oranges
+Team 5, oranges, apples, pears
+Team 6, apples, grapes, oranges
 Team 7, oranges, grapes, apples
+Team 8, oranges, apples, grapes
 ```
 
 ###### What To Submit
