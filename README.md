@@ -15,6 +15,7 @@ Here's a quick summary of our challenges and the number of points up for grabs f
 |6|Beat Hedy At RPS                           |Medium (75-100 points)|
 |7|Fun With APIs                              |Hard (125-150)|
 |8|Disappointment Minimiser                   |Hard (125-150)|
+|9|Smol Team Bonus                            |Bonus Only|
 
 ### Challenge Details
 
@@ -36,7 +37,7 @@ Submit the source-code and a screenshot of the programm running (or output from 
 
 ###### BONUS
 
-You get 5 points extra for submitting a link to a public repository ([GitHub](https://githib.com "You can sign up for GitHub for free!"), [GitLab](https://gitlab.com "You can sign up for GitLab for free!"), or [stgit](https://stgit.dcs.gla.ac.uk/ "If you already have an stgit account, you can also use that!")) containing a descriptive README.md file and the other components required to submit.
+You get 5 points extra for submitting a link to a public repository ([GitHub](https://github.com "You can sign up for GitHub for free!"), [GitLab](https://gitlab.com "You can sign up for GitLab for free!"), or [stgit](https://stgit.dcs.gla.ac.uk/ "If you already have an stgit account, you can also use that!")) containing a descriptive README.md file and the other components required to submit.
 
 #### 2. I Reject Your Reality And Substitute My Own (Easy (25-50 points))
 
@@ -48,7 +49,7 @@ Submit the challenge title and description for something we can run at Code Olym
 
 ###### BONUS
 
-You get 5 points extra for submitting a link to a public repository ([GitHub](https://githib.com "You can sign up for GitHub for free!"), [GitLab](https://gitlab.com "You can sign up for GitLab for free!"), or [stgit](https://stgit.dcs.gla.ac.uk/ "If you already have an stgit account, you can also use that!")) containing a descriptive README.md file and the other components required to submit.
+You get 5 points extra for submitting a link to a public repository ([GitHub](https://github.com "You can sign up for GitHub for free!"), [GitLab](https://gitlab.com "You can sign up for GitLab for free!"), or [stgit](https://stgit.dcs.gla.ac.uk/ "If you already have an stgit account, you can also use that!")) containing a descriptive README.md file and the other components required to submit.
 
 You get a further 5 points extra for telling us the _original_ as well as the _pop-culture_ reference in this challenge title.
 
@@ -62,7 +63,7 @@ Submit the ```.xls``` (or whatever) along with instructions for how to play.
 
 ###### BONUS
 
-You get 5 points extra for submitting a link to a public repository ([GitHub](https://githib.com "You can sign up for GitHub for free!"), [GitLab](https://gitlab.com "You can sign up for GitLab for free!"), or [stgit](https://stgit.dcs.gla.ac.uk/ "If you already have an stgit account, you can also use that!")) containing a descriptive README.md file and the other components required to submit.
+You get 5 points extra for submitting a link to a public repository ([GitHub](https://github.com "You can sign up for GitHub for free!"), [GitLab](https://gitlab.com "You can sign up for GitLab for free!"), or [stgit](https://stgit.dcs.gla.ac.uk/ "If you already have an stgit account, you can also use that!")) containing a descriptive README.md file and the other components required to submit.
 
 You get a further **150 points** extra for implementing a simple spreadsheet using [Twine](http://twinery.org/2/#!/welcome "Twine is an open-source tool for telling interactive, nonlinear stories.").
 
@@ -76,7 +77,7 @@ Submit source-code and a screenshot of successful completion. (**PROTIP** You do
 
 ###### BONUS
 
-You get 5 points extra for submitting a link to a public repository ([GitHub](https://githib.com "You can sign up for GitHub for free!"), [GitLab](https://gitlab.com "You can sign up for GitLab for free!"), or [stgit](https://stgit.dcs.gla.ac.uk/ "If you already have an stgit account, you can also use that!")) containing a descriptive README.md file and the other components required to submit.
+You get 5 points extra for submitting a link to a public repository ([GitHub](https://github.com "You can sign up for GitHub for free!"), [GitLab](https://gitlab.com "You can sign up for GitLab for free!"), or [stgit](https://stgit.dcs.gla.ac.uk/ "If you already have an stgit account, you can also use that!")) containing a descriptive README.md file and the other components required to submit.
 
 You get 5 extra points for including in your output the total execution time, and the number of loops performed before successful completion.
 
@@ -92,9 +93,11 @@ Submit source-code and a screenshot of sample output.
 
 ###### BONUS
 
-You get 5 points extra for submitting a link to a public repository ([GitHub](https://githib.com "You can sign up for GitHub for free!"), [GitLab](https://gitlab.com "You can sign up for GitLab for free!"), or [stgit](https://stgit.dcs.gla.ac.uk/ "If you already have an stgit account, you can also use that!")) containing a descriptive README.md file and the other components required to submit.
+You get 5 points extra for submitting a link to a public repository ([GitHub](https://github.com "You can sign up for GitHub for free!"), [GitLab](https://gitlab.com "You can sign up for GitLab for free!"), or [stgit](https://stgit.dcs.gla.ac.uk/ "If you already have an stgit account, you can also use that!")) containing a descriptive README.md file and the other components required to submit.
 
 You get 5 extra points for subtly making sure that _one of us_ always ends up with superior stats to the other three. Choose wisely!
+
+You get 1 additional point for each of us you connect with on LinkedIn and including the phrase "I want the bonus!" in your connection request. Make sure to also include your team name so we can find you.
 
 #### 6. Beat Hedy At RPS (Medium (75-100 points))
 
@@ -106,7 +109,7 @@ Copy-paste the source-code out of Hedy and into a text (or ```.py```) file and s
 
 ###### BONUS
 
-You get 5 points extra for submitting a link to a public repository ([GitHub](https://githib.com "You can sign up for GitHub for free!"), [GitLab](https://gitlab.com "You can sign up for GitLab for free!"), or [stgit](https://stgit.dcs.gla.ac.uk/ "If you already have an stgit account, you can also use that!")) containing a descriptive README.md file and the other components required to submit.
+You get 5 points extra for submitting a link to a public repository ([GitHub](https://github.com "You can sign up for GitHub for free!"), [GitLab](https://gitlab.com "You can sign up for GitLab for free!"), or [stgit](https://stgit.dcs.gla.ac.uk/ "If you already have an stgit account, you can also use that!")) containing a descriptive README.md file and the other components required to submit.
 
 You get **75-100 extra points** for extending the game to the full [Rock-Paper-Scissors-Lizard-Spock](https://www.instructables.com/How-to-Play-Rock-Paper-Scissors-Lizard-Spock/) rule-set (and beating Hedy at it).
 
@@ -121,7 +124,7 @@ Submit your source-code and a screenshot of your program running (or its output)
 
 ###### BONUS
 
-You get 5 points extra for submitting a link to a public repository ([GitHub](https://githib.com "You can sign up for GitHub for free!"), [GitLab](https://gitlab.com "You can sign up for GitLab for free!"), or [stgit](https://stgit.dcs.gla.ac.uk/ "If you already have an stgit account, you can also use that!")) containing a descriptive README.md file and the other components required to submit.
+You get 5 points extra for submitting a link to a public repository ([GitHub](https://github.com "You can sign up for GitHub for free!"), [GitLab](https://gitlab.com "You can sign up for GitLab for free!"), or [stgit](https://stgit.dcs.gla.ac.uk/ "If you already have an stgit account, you can also use that!")) containing a descriptive README.md file and the other components required to submit.
 
 #### 8. Disappointment Minimiser (Hard (125-150))
 
@@ -155,6 +158,20 @@ Submit your source-code and a screenshot of your program running (or its output)
 
 ###### BONUS
 
-You get 5 points extra for submitting a link to a public repository ([GitHub](https://githib.com "You can sign up for GitHub for free!"), [GitLab](https://gitlab.com "You can sign up for GitLab for free!"), or [stgit](https://stgit.dcs.gla.ac.uk/ "If you already have an stgit account, you can also use that!")) containing a descriptive README.md file and the other components required to submit.
+You get 5 points extra for submitting a link to a public repository ([GitHub](https://github.com "You can sign up for GitHub for free!"), [GitLab](https://gitlab.com "You can sign up for GitLab for free!"), or [stgit](https://stgit.dcs.gla.ac.uk/ "If you already have an stgit account, you can also use that!")) containing a descriptive README.md file and the other components required to submit.
 
 You get 25 points extra if you quantify the amount of disappointment generated by your solution and include it in the output.
+
+#### 9. Smol Team Bonus (Bonus Only)
+
+If you feel your your team is unfairly penalised by not having enough members to capitalise on individual bonuses (e.g. challenge #0 and #5), or has otherwise missed out by being small, you may appeal to our sense of fairness and get some extra points to make up for it.
+
+###### What To Submit
+
+Submit your appeal in the form of a **smol meme** and tell us how smol your team is, and complain about the lorge team(s) getting all the points.
+
+###### BONUS
+
+You get 5 points extra for submitting a link to a public repository ([GitHub](https://github.com "You can sign up for GitHub for free!"), [GitLab](https://gitlab.com "You can sign up for GitLab for free!"), or [stgit](https://stgit.dcs.gla.ac.uk/ "If you already have an stgit account, you can also use that!")) containing a descriptive README.md file and the other components required to submit.
+
+
